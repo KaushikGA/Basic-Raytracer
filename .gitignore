@@ -1,0 +1,11 @@
+# Build directories
+build/
+bin/
+
+# IDE specific files
+.vscode/
+.idea/
+
+# Output images
+*.ppm
+*.exe
