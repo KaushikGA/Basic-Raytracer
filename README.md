@@ -18,13 +18,16 @@ This project demonstrates the core mathematical and architectural foundations of
    ```bash
    git clone https://github.com/kaushikGA/Basic-Raytracer.git
    cd Basic-Raytracer
-2. Clone the repository:
+2. Build the repository:
    ```bash
    cmake -B build
 3. Compile the project:
    ```bash
-   ./build/raytracer
-
+   cmake --build build
+4. Execute the binary:
+   ```bash
+   ./build/raytracer.exe
+   
 ## 📚 Attribution
 
 This architecture was inspired by and built following the mathematical principles outlined in Peter Shirley's excellent series, Ray Tracing in One Weekend. Modifications were made to adapt the camera viewport coordinate system and output formatting.
