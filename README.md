@@ -25,7 +25,7 @@ This project demonstrates the core mathematical and architectural foundations of
    ```bash
    ./build/raytracer
 
-📚 Attribution
+## 📚 Attribution
 
 This architecture was inspired by and built following the mathematical principles outlined in Peter Shirley's excellent series, Ray Tracing in One Weekend. Modifications were made to adapt the camera viewport coordinate system and output formatting.
 https://raytracing.github.io/
